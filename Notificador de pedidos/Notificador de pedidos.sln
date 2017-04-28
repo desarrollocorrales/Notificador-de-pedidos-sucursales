@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notificador de pedidos", "Notificador de pedidos.csproj", "{CA2E5764-0B94-436F-9AF6-F2FF4DF10C8F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Notificador de Pedidos", "..\Instalador Notificador de Pedidos\Instalador Notificador de Pedidos.vdproj", "{0C6C4B29-7B7C-4EDD-B439-23A8240D5979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2E5764-0B94-436F-9AF6-F2FF4DF10C8F}.Debug|x86.ActiveCfg = Debug|x86
+		{CA2E5764-0B94-436F-9AF6-F2FF4DF10C8F}.Debug|x86.Build.0 = Debug|x86
+		{CA2E5764-0B94-436F-9AF6-F2FF4DF10C8F}.Release|x86.ActiveCfg = Release|x86
+		{CA2E5764-0B94-436F-9AF6-F2FF4DF10C8F}.Release|x86.Build.0 = Release|x86
+		{0C6C4B29-7B7C-4EDD-B439-23A8240D5979}.Debug|x86.ActiveCfg = Debug
+		{0C6C4B29-7B7C-4EDD-B439-23A8240D5979}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

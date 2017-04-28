@@ -1,0 +1,12 @@
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\bin\Debug\Notificador de pedidos.exe
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\bin\Debug\Notificador de pedidos.pdb
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\obj\x86\Debug\Notificador_de_pedidos.Properties.Resources.resources
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\obj\x86\Debug\Notificador de pedidos.csproj.GenerateResource.Cache
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\obj\x86\Debug\Notificador de pedidos.exe
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\obj\x86\Debug\Notificador de pedidos.pdb
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\obj\x86\Debug\Notificador_de_pedidos.GUIs.Frm_Lanzador.resources
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\bin\Debug\Notificador de pedidos.exe.config
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\obj\x86\Debug\Notificador de pedidos.exe.licenses
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\bin\Debug\system.pw
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\obj\x86\Debug\Notificador_de_pedidos.GUIs.Frm_Autorizacion.resources
+G:\Github\Notificador-de-pedidos-sucursales\Notificador de pedidos\obj\x86\Debug\Notificador de pedidos.csprojResolveAssemblyReference.cache
